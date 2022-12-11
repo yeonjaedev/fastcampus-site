@@ -1,0 +1,6 @@
+; PR을 날리거나 개발을 진행할 때 관리자를 지정해주는 파일
+* @yeonjaedev
+; 이 저장소에서 일어나는 모든 일에 대해 @yeonjaedev가 리뷰어로 붙게 된다.
+; code owner를 설정하는 것과 리뷰어를 설정하는 것의 차이 ?
+; code owner를 설정하면 github protection rule에 code owner가 리뷰를 남겼을 때에만 merge를 시킬 수 있는 항목이 존재한다.
+; 단순히 리뷰어를 지정하는 것과는 다름
